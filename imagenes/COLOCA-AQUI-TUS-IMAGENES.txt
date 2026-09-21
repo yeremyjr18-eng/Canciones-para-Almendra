@@ -1,0 +1,2 @@
+Aquí irán los fondos y las portadas cuando los elijamos.
+Ejemplo en canciones.js: fondo: "imagenes/fondo-01.jpg"
