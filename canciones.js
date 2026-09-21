@@ -25,21 +25,21 @@ window.REGALO = {
           "id": "r1-a",
           "titulo": "Te Lo Prometo",
           "artista": "HUMBE",
-          "audio": "audio/Te_Lo_Prometo_HUMBE.mp3",
+          "audio": "./Te_Lo_Prometo_HUMBE.mp3",
           "portada": ""
         },
         {
           "id": "r1-b",
           "titulo": "Todo Cambió",
           "artista": "Camila",
-          "audio": "audio/Todo_Cambió_Camila.mp3",
+          "audio": "./Todo_Cambió_Camila.mp3",
           "portada": ""
         },
         {
           "id": "r1-c",
           "titulo": "Amapolas",
           "artista": "Leo Rizzi",
-          "audio": "audio/Amapolas_Leo_Rizzi.mp3",
+          "audio": "./Amapolas_Leo_Rizzi.mp3",
           "portada": ""
         }
       ],
@@ -56,21 +56,21 @@ window.REGALO = {
           "id": "r2-a",
           "titulo": "Ella Es Mi Fiesta",
           "artista": "Carlos Vives",
-          "audio": "audio/Ella_Es_Mi_Fiesta_Carlos_Vives.mp3",
+          "audio": "./Ella_Es_Mi_Fiesta_Carlos_Vives.mp3",
           "portada": ""
         },
         {
           "id": "r2-b",
           "titulo": "Eres Tú",
           "artista": "Reik, Matisse",
-          "audio": "audio/Eres_Tú_Reik_Matisse.mp3",
+          "audio": "./Eres_Tú_Reik_Matisse.mp3",
           "portada": ""
         },
         {
           "id": "r2-c",
           "titulo": "Antes De Ti",
           "artista": "Mon Laferte",
-          "audio": "audio/Antes_De_Ti_Mon_Laferte.mp3",
+          "audio": "./Antes_De_Ti_Mon_Laferte.mp3",
           "portada": ""
         }
       ],
@@ -87,21 +87,21 @@ window.REGALO = {
           "id": "r3-a",
           "titulo": "Tú Me Encantas",
           "artista": "3AM",
-          "audio": "audio/Tu_Me_Encantas_3AM.mp3",
+          "audio": "./Tu_Me_Encantas_3AM.mp3",
           "portada": ""
         },
         {
           "id": "r3-b",
           "titulo": "Qué Haríamos Los Viernes",
           "artista": "José Otero, Karen Méndez",
-          "audio": "audio/Qué_Haríamos_Los_Viernes_José_Otero_Karen_Méndez.mp3",
+          "audio": "./Qué_Haríamos_Los_Viernes_José_Otero_Karen_Méndez.mp3",
           "portada": ""
         },
         {
           "id": "r3-c",
           "titulo": "Quédate Conmigo",
           "artista": "Wisin, Gente De Zona, Chyno Miranda",
-          "audio": "audio/Quédate_Conmigo_Wisin_Gente_De_Zona_Chyno Miranda.mp3",
+          "audio": "./Quédate_Conmigo_Wisin_Gente_De_Zona_Chyno Miranda.mp3",
           "portada": ""
         }
       ],
@@ -118,21 +118,21 @@ window.REGALO = {
           "id": "r4-a",
           "titulo": "San Lucas",
           "artista": "Kevin Kaarl",
-          "audio": "audio/San_Lucas_Kevin_Kaarl.mp3",
+          "audio": "./San_Lucas_Kevin_Kaarl.mp3",
           "portada": ""
         },
         {
           "id": "r4-b",
           "titulo": "Un Año",
           "artista": "Sebastián Yatra, Reik",
-          "audio": "audio/Un_Año_Sebastián_Yatra_Reik.mp3",
+          "audio": "./Un_Año_Sebastián_Yatra_Reik.mp3",
           "portada": ""
         },
         {
           "id": "r4-c",
           "titulo": "La Suerte",
           "artista": "Charlie USG",
-          "audio": "audio/La_Suerte_Charlie_USG.mp3",
+          "audio": "./La_Suerte_Charlie_USG.mp3",
           "portada": ""
         }
       ],
@@ -149,21 +149,21 @@ window.REGALO = {
           "id": "r5-a",
           "titulo": "Incondicional",
           "artista": "Prince Royce",
-          "audio": "audio/Incondicional_Prince_Royce.mp3",
+          "audio": "./Incondicional_Prince_Royce.mp3",
           "portada": ""
         },
         {
           "id": "r5-b",
           "titulo": "Destino o Casualidad",
           "artista": "Melendi, Ha*Ash",
-          "audio": "audio/Destino_o_Casualidad_Melendi_HaAsh.mp3",
+          "audio": "./Destino_o_Casualidad_Melendi_HaAsh.mp3",
           "portada": ""
         },
         {
           "id": "r5-c",
           "titulo": "Imagina",
           "artista": "",
-          "audio": "audio/Imagina.mp3",
+          "audio": "./Imagina.mp3",
           "portada": ""
         }
       ],
@@ -180,21 +180,21 @@ window.REGALO = {
           "id": "r6-a",
           "titulo": "Te Echo De Menos",
           "artista": "Beret",
-          "audio": "audio/Te_Echo_De_Menos_Beret.mp3",
+          "audio": "./Te_Echo_De_Menos_Beret.mp3",
           "portada": ""
         },
         {
           "id": "r6-b",
           "titulo": "El Día Que Vuelvas",
           "artista": "Marcelo Rubio",
-          "audio": "audio/El_Día_Que_Vuelvas_Marcelo_Rubio.mp3",
+          "audio": "./El_Día_Que_Vuelvas_Marcelo_Rubio.mp3",
           "portada": ""
         },
         {
           "id": "r6-c",
           "titulo": "Experiencia Religiosa",
           "artista": "Enrique Iglesias",
-          "audio": "audio/Experiencia_Religiosa_Enrique_Iglesias.mp3",
+          "audio": "./Experiencia_Religiosa_Enrique_Iglesias.mp3",
           "portada": ""
         }
       ],
@@ -211,21 +211,21 @@ window.REGALO = {
           "id": "r7-a",
           "titulo": "Robarte un Beso",
           "artista": "Carlos Vives, Sebastián Yatra",
-          "audio": "audio/Robarte_un_Beso_Carlos_Vives_Sebastián_Yatra.mp3",
+          "audio": "./Robarte_un_Beso_Carlos_Vives_Sebastián_Yatra.mp3",
           "portada": ""
         },
         {
           "id": "r7-b",
           "titulo": "Dandelions",
           "artista": "Ruth B.",
-          "audio": "audio/Dandelions_Ruth_B.mp3",
+          "audio": "./Dandelions_Ruth_B.mp3",
           "portada": ""
         },
         {
           "id": "r7-c",
           "titulo": "Amaneceres",
           "artista": "Beret, Diegote",
-          "audio": "audio/Amaneceres_Beret_Diegote.mp3",
+          "audio": "./Amaneceres_Beret_Diegote.mp3",
           "portada": ""
         }
       ],
@@ -242,21 +242,21 @@ window.REGALO = {
           "id": "r8-a",
           "titulo": "Como Haces",
           "artista": "Ela Taubert",
-          "audio": "audio/Como_Haces_Ela_Taubert.mp3",
+          "audio": "./Como_Haces_Ela_Taubert.mp3",
           "portada": ""
         },
         {
           "id": "r8-b",
           "titulo": "Ojos Color Sol",
           "artista": "Calle 13, Silvio Rodríguez",
-          "audio": "audio/Ojos_Color_Sol_Calle_13_Silvio_Rodríguez.mp3",
+          "audio": "./Ojos_Color_Sol_Calle_13_Silvio_Rodríguez.mp3",
           "portada": ""
         },
         {
           "id": "r8-c",
           "titulo": "Niña Bonita",
           "artista": "Chino & Nacho",
-          "audio": "audio/Niña_Bonita_Chino_Nacho.mp3",
+          "audio": "./Niña_Bonita_Chino_Nacho.mp3",
           "portada": ""
         }
       ],
@@ -273,21 +273,21 @@ window.REGALO = {
           "id": "r9-a",
           "titulo": "Acuérdate De Mí",
           "artista": "Morat",
-          "audio": "audio/Acuérdate_De_Mí_Morat.mp3",
+          "audio": "./Acuérdate_De_Mí_Morat.mp3",
           "portada": ""
         },
         {
           "id": "r9-b",
           "titulo": "Vidas Pasadas",
           "artista": "3AM",
-          "audio": "audio/Vidas_Pasadas_3AM.mp3",
+          "audio": "./Vidas_Pasadas_3AM.mp3",
           "portada": ""
         },
         {
           "id": "r9-c",
           "titulo": "Me Voy Enamorando (Remix)",
           "artista": "Chino & Nacho, Farruko",
-          "audio": "audio/Me_Voy_Enamorando_Remix_Chino_Nacho_Farruko.mp3",
+          "audio": "./Me_Voy_Enamorando_Remix_Chino_Nacho_Farruko.mp3",
           "portada": ""
         }
       ],
@@ -304,21 +304,21 @@ window.REGALO = {
           "id": "r10-a",
           "titulo": "UNA CANCIÓN BONITA",
           "artista": "3AM, Yami Safdie",
-          "audio": "audio/UNA_CANCIÓN_BONITA_3AM_Yami_Safdie.mp3",
+          "audio": "./UNA_CANCIÓN_BONITA_3AM_Yami_Safdie.mp3",
           "portada": ""
         },
         {
           "id": "r10-b",
           "titulo": "Darte Un Beso",
           "artista": "Prince Royce",
-          "audio": "audio/Darte_Un_Beso_Prince_Royce.mp3",
+          "audio": "./Darte_Un_Beso_Prince_Royce.mp3",
           "portada": ""
         },
         {
           "id": "r10-c",
           "titulo": "Bésame Bonito",
           "artista": "Carmen DeLeon",
-          "audio": "audio/Bésame_Bonito_Carmen_DeLeon.mp3",
+          "audio": "./Bésame_Bonito_Carmen_DeLeon.mp3",
           "portada": ""
         }
       ],
@@ -335,21 +335,21 @@ window.REGALO = {
           "id": "r11-a",
           "titulo": "Lo Que Nunca Te Dije",
           "artista": "Charlie USG",
-          "audio": "audio/Lo_Que_Nunca_Te_Dije_Charlie_USG.mp3",
+          "audio": "./Lo_Que_Nunca_Te_Dije_Charlie_USG.mp3",
           "portada": ""
         },
         {
           "id": "r11-b",
           "titulo": "La Carta Que Nunca Te Escribí (Remix)",
           "artista": "Lu Decker, Dudi",
-          "audio": "audio/La_Carta_Que_Nunca_Te_Escribí_Remix_Lu_Decker_Dudi.mp3",
+          "audio": "./La_Carta_Que_Nunca_Te_Escribí_Remix_Lu_Decker_Dudi.mp3",
           "portada": ""
         },
         {
           "id": "r11-c",
           "titulo": "Confieso",
           "artista": "HUMBE",
-          "audio": "audio/Confieso_HUMBE.mp3",
+          "audio": "./Confieso_HUMBE.mp3",
           "portada": ""
         }
       ],
@@ -366,21 +366,21 @@ window.REGALO = {
           "id": "r12-a",
           "titulo": "La Promesa",
           "artista": "Melendi",
-          "audio": "audio/La_Promesa_Melendi.mp3",
+          "audio": "./La_Promesa_Melendi.mp3",
           "portada": ""
         },
         {
           "id": "r12-b",
           "titulo": "Hasta Ese Día",
           "artista": "Lasso",
-          "audio": "audio/Hasta_Ese_Día_Lasso.mp3",
+          "audio": "./Hasta_Ese_Día_Lasso.mp3",
           "portada": ""
         },
         {
           "id": "r12-c",
           "titulo": "Mi Vida Entera",
           "artista": "Morat",
-          "audio": "audio/Mi_Vida_Entera_Morat.mp3",
+          "audio": "./Mi_Vida_Entera_Morat.mp3",
           "portada": ""
         }
       ],
@@ -397,21 +397,21 @@ window.REGALO = {
           "id": "r13-a",
           "titulo": "Ordinary",
           "artista": "Alex Warren",
-          "audio": "audio/Ordinary_Alex_Warren.mp3",
+          "audio": "./Ordinary_Alex_Warren.mp3",
           "portada": ""
         },
         {
           "id": "r13-b",
           "titulo": "Solamente Tú",
           "artista": "Pablo Alborán",
-          "audio": "audio/Solamente_Tú_Pablo_Alborán.mp3",
+          "audio": "./Solamente_Tú_Pablo_Alborán.mp3",
           "portada": ""
         },
         {
           "id": "r13-c",
           "titulo": "Te Amo",
           "artista": "Piso 21, Paulo Londra",
-          "audio": "audio/Te_Amo_Piso_21_Paulo_Londra.mp3",
+          "audio": "./Te_Amo_Piso_21_Paulo_Londra.mp3",
           "portada": ""
         }
       ],
@@ -420,3 +420,4 @@ window.REGALO = {
   ],
   "fondoRevelacion": "imagenes/Revelación.png"
 };
+
