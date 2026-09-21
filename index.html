@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f2eb">
+  <meta name="description" content="Una pequeña colección de canciones y un mensaje para ti.">
+  <title>De mí para ti, con cariño</title>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="canciones.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <div class="background-grain" aria-hidden="true"></div>
+  <div class="background-glow glow-one" aria-hidden="true"></div>
+  <div class="background-glow glow-two" aria-hidden="true"></div>
+  <header class="site-header">
+    <a class="wordmark" href="index.html" aria-label="Volver a la portada"><span aria-hidden="true">♡</span> una canción, un recuerdo</a>
+    <span class="header-note">HECHO CON CARIÑO</span>
+  </header>
+  <main id="app" tabindex="-1"></main>
+  <footer class="site-footer"><span>Para escuchar despacito.</span><span>Y sentir un poquito más. <span aria-hidden="true">♡</span></span></footer>
+  <audio id="player" preload="none"></audio>
+  <dialog id="song-dialog" aria-labelledby="dialog-title">
+    <div id="dialog-content"></div>
+    <button class="dialog-close" id="close-dialog" type="button" aria-label="Cerrar canción">×</button>
+  </dialog>
+  <noscript>Activa JavaScript en tu navegador para abrir este regalo.</noscript>
+</body>
+</html>
